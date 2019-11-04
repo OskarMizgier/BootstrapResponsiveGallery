@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to right, #052637, #003c60, #00528d, #0067bc, #127aeb);
+}
+
+.jumbotron {
+    margin-top: 60px;
+    color: #0081CF;
+}
+
+form {
+    float: right;
+}
+ 
